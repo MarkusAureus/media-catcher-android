@@ -1,0 +1,8 @@
+kivy==2.2.1
+buildozer==1.5.0
+cython==0.29.33
+requests==2.31.0
+certifi
+urllib3
+chardet
+idna

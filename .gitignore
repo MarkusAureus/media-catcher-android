@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Buildozer & Android
+.buildozer/
+bin/
+*.apk
+*.log
+
+# IDE / editor config
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db

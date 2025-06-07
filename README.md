@@ -17,6 +17,9 @@ A powerful Android application for downloading videos and audio from over 1000 s
 - 🚫 **No Ads** - Completely free and open source
 - 🔒 **Privacy First** - No tracking, no analytics
 
+## 📱 Screenshot
+![Screenshot aplikácie](screenshot.png)
+
 
 ## 🚀 Installation
 

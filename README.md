@@ -98,9 +98,9 @@ This app is for personal use only. Please respect copyright laws and the terms o
 ## 📧 Contact
 
 - Create an [Issue](https://github.com/MarkusAureus/media-catcher-android/issues) for bug reports
-- Email: your.email@example.com
+- Email: marek_kozuch@protonmail.com
 
 ---
 
-Marek Kožuch
+
 Made with ❤️ for the open source community

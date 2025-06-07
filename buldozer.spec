@@ -7,7 +7,7 @@ title = Media Catcher
 package.name = mediacatcher
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.fdroid
+package.domain = com.github.MarkusAureus
 
 # (str) Source code where the main.py live
 source.dir = .

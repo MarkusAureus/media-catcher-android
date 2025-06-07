@@ -46,7 +46,7 @@ if [ $? -eq 0 ]; then
         echo ""
         echo "For F-Droid submission:"
         echo "  1. Fork https://gitlab.com/fdroid/fdroiddata"
-        echo "  2. Add metadata/org.fdroid.mediacatcher.yml"
+        echo "  2. Add metadata/com.github.MarkusAureus.mediacatcher.yml"
         echo "  3. Submit merge request"
     fi
 else

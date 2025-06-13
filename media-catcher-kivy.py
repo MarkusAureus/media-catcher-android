@@ -1,12 +1,3 @@
-# -----------------------------------------------------------------------------
-# -- MEDIA CATCHER - A KIVY-BASED YT-DLP FRONTEND                            --
-# -- Author: Markus Aureus                                                   --
-# -- Date: [Date of Last Edit]                                               --
-# -- Description: A cross-platform GUI application for downloading audio     --
-# --              and video from various websites using yt-dlp as the        --
-# --              backend.                                                   --
-# -----------------------------------------------------------------------------
-
 # --- Standard Library Imports ---
 import os
 import re
